@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708541981780",
+    "project_id": "zhebin-brew-crew-efd85",
+    "storage_bucket": "zhebin-brew-crew-efd85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708541981780:android:654199493830c2dba379c1",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0THlGskUIAyyewghNYZB9Kv0BilB2KOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

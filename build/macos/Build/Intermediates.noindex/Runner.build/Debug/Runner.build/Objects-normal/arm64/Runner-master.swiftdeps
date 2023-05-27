@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f089aec7cb0c21b43f8415b239ca24969c3956341448d0871ac60b7896990499"
+build_start_time: [1685159522, 567679000]
+build_end_time: [1685159533, 163544000]
+inputs:
+  "/Users/qiiyuan/Downloads/Bean Lab/flutter with firebase/brew_crew/macos/Flutter/GeneratedPluginRegistrant.swift": [1685159501, 413985796]
+  "/Users/qiiyuan/Downloads/Bean Lab/flutter with firebase/brew_crew/macos/Runner/AppDelegate.swift": [1684953162, 0]
+  "/Users/qiiyuan/Downloads/Bean Lab/flutter with firebase/brew_crew/macos/Runner/MainFlutterWindow.swift": [1684953162, 0]
